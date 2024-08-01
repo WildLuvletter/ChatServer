@@ -1,0 +1,15 @@
+# ninja log v6
+2412	2625	1722503789633373168	/home/turing/Desktop/CHAT/bin/ChatServer	7fd8a1c897afca3
+3	727	1722501391924315888	src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o	aa57d2255f97289b
+3	1859	1722502456449069328	src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o	f82a0423a4c5cccb
+4	1949	1722502456449069328	src/server/CMakeFiles/ChatServer.dir/model/frinedmodel.cpp.o	c890701857311b6f
+1	2982	1722502503933792333	src/client/CMakeFiles/ChatClient.dir/main.cpp.o	52d8fa15027f251b
+4	2321	1722502456449069328	src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o	4e9a9c254764ecc9
+4	2345	1722502456449069328	src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o	4a1d843c144361ca
+3	2412	1722503787225347107	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	fb44ca51cb35289b
+4	2045	1722502456449069328	src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o	8182c452d7f38500
+3	3046	1722502456449069328	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	8713f1b7d67d0a10
+2983	3081	1722502506917837079	/home/turing/Desktop/CHAT/bin/ChatClient	46e7c07957187e0d
+3	1574	1722502456449069328	src/server/CMakeFiles/ChatServer.dir/db/Connect.cpp.o	f57ad9204425ad79
+2	2491	1722501391924315888	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	b801db795af17bd6
+3	1133	1722503253619420727	src/server/CMakeFiles/ChatServer.dir/connectPool/Pool.cpp.o	a92bcfa98912d96
